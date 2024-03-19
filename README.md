@@ -18,7 +18,7 @@ git clone https://github.com/TrezorTop/rust-guess-number-game.git
 ```
 2. Change to the project directory
 ```bash
-cd guess_game
+cd rust-guess-number-game
 ```
 3. Build the project
 ```bash
