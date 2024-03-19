@@ -14,7 +14,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
 ```bash
-git clone https://github.com/EdwGuz/guess_game.git
+git clone https://github.com/TrezorTop/rust-guess-number-game.git
 ```
 2. Change to the project directory
 ```bash
